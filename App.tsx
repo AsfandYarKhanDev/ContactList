@@ -1,6 +1,6 @@
 import { FlatList, StyleSheet, View, ViewToken } from "react-native";
 import { useSharedValue } from "react-native-reanimated";
-import { ListItem } from "./components/ListItem";
+import { ListItem } from "./ListItem";
 
 const contacts = [
   {
